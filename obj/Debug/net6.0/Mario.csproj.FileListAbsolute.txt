@@ -1,0 +1,15 @@
+/home/juliano/projetos/Mario/bin/Debug/net6.0/Mario
+/home/juliano/projetos/Mario/bin/Debug/net6.0/Mario.deps.json
+/home/juliano/projetos/Mario/bin/Debug/net6.0/Mario.runtimeconfig.json
+/home/juliano/projetos/Mario/bin/Debug/net6.0/Mario.dll
+/home/juliano/projetos/Mario/bin/Debug/net6.0/ref/Mario.dll
+/home/juliano/projetos/Mario/bin/Debug/net6.0/Mario.pdb
+/home/juliano/projetos/Mario/obj/Debug/net6.0/Mario.csproj.AssemblyReference.cache
+/home/juliano/projetos/Mario/obj/Debug/net6.0/Mario.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliano/projetos/Mario/obj/Debug/net6.0/Mario.AssemblyInfoInputs.cache
+/home/juliano/projetos/Mario/obj/Debug/net6.0/Mario.AssemblyInfo.cs
+/home/juliano/projetos/Mario/obj/Debug/net6.0/Mario.csproj.CoreCompileInputs.cache
+/home/juliano/projetos/Mario/obj/Debug/net6.0/Mario.dll
+/home/juliano/projetos/Mario/obj/Debug/net6.0/ref/Mario.dll
+/home/juliano/projetos/Mario/obj/Debug/net6.0/Mario.pdb
+/home/juliano/projetos/Mario/obj/Debug/net6.0/Mario.genruntimeconfig.cache
